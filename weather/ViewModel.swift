@@ -49,7 +49,7 @@ class ViewModel: ObservableObject {
     
     // MARK: - Weather fetching by city name
     
-    func fetch(city: String = "jabalpur") {
+    func fetch(city: String = "prague") {
         guard let encoded = city.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed),
               let url = URL(
                 string: "https://api.openweathermap.org/data/2.5/weather?q=\(encoded)&appid=\(apiKey)&units=metric"
