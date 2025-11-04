@@ -3,7 +3,7 @@
 **Built in Swift as a school project**
 
 Most of the implemented features were built to prove my ability to work with Swift, such as the navigation slider at the bottom of the screen.
-THe visual presentation is far from what I would release if the application was to be up to my standards.
+The visual presentation is far from what I would release if the application was to be up to my standards.
 
 
 
